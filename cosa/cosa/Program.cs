@@ -6,7 +6,9 @@ namespace cosa
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ECija la chupa!);
+            Console.WriteLine("ECija la chupa!");
+                 Console.WriteLine("alonso*");
+
         }
     }
 }
